@@ -31,7 +31,11 @@ body, html{
     padding: .3em .2em;
     border-radius: 4px;
 }
-
+.copyright{
+  margin-top: 100px;
+  color:grey;
+  text-align: center;
+}
 .text-light {
 	color: var(--light-color)
 }

@@ -35,6 +35,7 @@ export default function Main() {
         <div className='start'>
             <Link className='btn' to={'quiz'} onClick={startQuiz}>Start Quiz</Link>
         </div>
+        <p className='copyright'>Copyright @ Jayasurya</p>
 
     </div>
   )
