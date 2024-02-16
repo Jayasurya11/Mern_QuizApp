@@ -42,7 +42,7 @@ export default [
     },
     {
         id: 5,
-        question : "How will you make all paragraph elements 'RED' in color ?",
+        question : "How will you make all paragraph elements 'RED' in color?",
         options : [
             'p.all{color:red;}',
             'p.all{color:#990000;}',
